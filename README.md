@@ -1,2 +1,2 @@
-# for-loop-in-Java
-a little intro about for loop in Java
+# for-loop-in-C++
+a little intro about for loop in C++
