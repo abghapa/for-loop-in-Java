@@ -2,7 +2,7 @@
 a little intro about for loop in C++
 
 
-// countdown using a for loop
+# countdown using a for loop
 #include <iostream>
 using namespace std;
 
